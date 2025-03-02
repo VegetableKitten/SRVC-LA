@@ -30,8 +30,9 @@ The main requirements are:
 ```
 python > 3.1
 pytorch > 1.6
-Other python packages: nltk, pycocotools, pyyaml, easydict, datasets, boto3, ftfy, regex, tqdm
 ```
+
+Other python packages: nltk, pycocotools, pyyaml, easydict, datasets, boto3, ftfy, regex, tqdm
 
 ### Datasets
 
