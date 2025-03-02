@@ -12,11 +12,15 @@ Video description is one of the important generative tasks, which is to summariz
 
 ### Training
 
-`$ python train.py`
+```
+$ python train.py
+```
 
 ### testing
 
-`$ python eval.py`
+```
+$ python eval.py
+```
 
 ### Requirements
 
